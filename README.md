@@ -7,4 +7,4 @@ Contains the BlinkR application UML (actually SysML) model.
 
 The project was created with Eclipse Modeling and Papyrus UML plugin.
 
-see its <a href="http://www.bobosse.net/wordpress/category/lhopra/blinkr/">companion blog</a> for information and new about this project.
+Please see its <a href="http://www.bobosse.net/wordpress/category/lhopra/blinkr/">companion blog</a> for information and news.
